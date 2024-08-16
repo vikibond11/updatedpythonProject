@@ -1,0 +1,1 @@
+print("one","two","three",sep=':',end="_")

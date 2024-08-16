@@ -8,3 +8,5 @@ print(list1)
 print("Largest element is:", list1[-1])
 list1.sort(reverse=True)
 print(list1)
+string = "one,two,three"
+print(string.split(","))
